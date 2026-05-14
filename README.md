@@ -30,13 +30,9 @@ https://github.com/user-attachments/assets/b6bafb86-dfe5-42f4-ba79-3bae313d88aa
 
 ## 🌐 Demo
 
-> 🔗 *Link do deploy será adicionado após publicação na Vercel*
+> 🔗 https://portfolio-cleudson.vercel.app/
 
-<!-- Após o deploy, adicione o link aqui:
-**[Ver demo ao vivo →](https://seu-portfolio.vercel.app)**
--->
 
----
 
 ## ✨ Features
 
