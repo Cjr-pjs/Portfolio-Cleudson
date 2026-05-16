@@ -89,48 +89,51 @@ function HeroSection() {
         <code className="block whitespace-pre-wrap break-words font-mono text-[10px] leading-5 md:text-xs lg:text-sm">
     
     <div className="blink">
-      <span className="mr-2 text-pink-500">const</span>
-      <span className="mr-2 text-white">coder</span>
-      <span className="mr-2 text-pink-500">=</span>
-      <span className="text-gray-400">{'{'}</span>
-    </div>
+  <span className="mr-2 text-pink-500">const</span>
+  <span className="mr-2 text-white">coder</span>
+  <span className="mr-2 text-pink-500">=</span>
+  <span className="text-gray-400">{'{'}</span>
+</div>
 
-    <div>
-      <span className="ml-3 lg:ml-6 mr-2 text-cyan-300">name:</span>
-      <span className="text-gray-400">{`'`}</span>
-      <span className="text-amber-300">Cleudson Junior</span>
-      <span className="text-gray-400">{`',`}</span>
-    </div>
+<div>
+  <span className="ml-3 lg:ml-6 mr-2 text-cyan-300">name:</span>
+  <span className="text-gray-400">{`'`}</span>
+  <span className="text-amber-300">Cleudson Junior</span>
+  <span className="text-gray-400">{`',`}</span>
+</div>
 
-    <div>
-      <span className="ml-3 lg:ml-6 mr-2 text-cyan-300">role:</span>
-      <span className="text-gray-400">{`'`}</span>
-      <span className="text-green-400">FullStack Developer</span>
-      <span className="text-gray-400">{`',`}</span>
-    </div>
+<div>
+  <span className="ml-3 lg:ml-6 mr-2 text-cyan-300">role:</span>
+  <span className="text-gray-400">{`'`}</span>
+  <span className="text-green-400">FullStack Developer</span>
+  <span className="text-gray-400">{`',`}</span>
+</div>
 
-    <div className="ml-3 lg:ml-6 mr-2">
-      <span className="text-cyan-300">skills:</span>
-      <span className="text-gray-400">{` ['`}</span>
+<div className="ml-3 lg:ml-6 mr-2">
+  <span className="text-cyan-300">skills:</span>
+  <span className="text-gray-400">{` ['`}</span>
 
-      <span className="text-amber-300">NextJS</span>
-      <span className="text-gray-400">{"', '"}</span>
+  <span className="text-amber-300">NextJS</span>
+  <span className="text-gray-400">{"', '"}</span>
 
-      <span className="text-amber-300">TypeScript</span>
-      <span className="text-gray-400">{"', '"}</span>
+  <span className="text-amber-300">TypeScript</span>
+  <span className="text-gray-400">{"', '"}</span>
 
-      <span className="text-amber-300">NodeJS</span>
-      <span className="text-gray-400">{"', '"}</span>
+  <span className="text-amber-300">NodeJS</span>
+  <span className="text-gray-400">{"', '"}</span>
 
-      <span className="text-amber-300">PostgreSQL</span>
-      <span className="text-gray-400">{"', '"}</span>
+  <span className="text-amber-300">PostgreSQL</span>
+  <span className="text-gray-400">{"', '"}</span>
 
-      <span className="text-amber-300">MongoDB</span>
-      <span className="text-gray-400">{"', '"}</span>
+  <span className="text-amber-300">MongoDB</span>
+  <span className="text-gray-400">{"', '"}</span>
 
-      <span className="text-amber-300">Prisma</span>
-      <span className="text-gray-400">{`'],`}</span>
-    </div>
+  <span className="text-amber-300">Prisma</span>
+  <span className="text-gray-400">{"', '"}</span>
+
+  <span className="text-amber-300">Python</span>
+  <span className="text-gray-400">{`'],`}</span>
+</div>
 
     <div>
       <span className="ml-3 lg:ml-6 mr-2 text-cyan-300">qualities:</span>
